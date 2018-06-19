@@ -14,7 +14,14 @@ Dataset contained three different datasets:
 - **train.p ->** this file contains the dataset, which is used for training a neural network model.
 - **valid.p ->** this dataset is used for validating the model trough training steps.
 - **test.p ->** after the training step this dataset is used to test the trained model.
-### 
+### Exploratory Visualization
+>The submission includes an exploratory visualization on the dataset.
+As we can see in executed source code.
+````
+dsödäs
+
+````
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzQzNjM1NzUsMTQzOTE0ODA3M119
+eyJoaXN0b3J5IjpbMTk3NjgyMjkyNywxNDM5MTQ4MDczXX0=
 -->
