@@ -18,10 +18,12 @@ Dataset contained three different datasets:
 >The submission includes an exploratory visualization on the dataset.
 As we can see in executed source code.
 ````
-dsödäs
-
+Number of training examples = 34799
+Number of testing examples = 12630
+Image data shape = (32, 32, 3)
+Number of classes = 43
 ````
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NjgyMjkyNywxNDM5MTQ4MDczXX0=
+eyJoaXN0b3J5IjpbLTE1Njc1NjkxODQsMTQzOTE0ODA3M119
 -->
