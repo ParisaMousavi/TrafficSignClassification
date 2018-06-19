@@ -27,6 +27,8 @@ Image data shape = (32, 32, 3)
 Number of classes = 43
 ````
 
+**Note:** the number of classes is 43 because the train, validate and test dataset only contain 43
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5Nzk2OTU1MCwxNDM5MTQ4MDczXX0=
+eyJoaXN0b3J5IjpbMTQ4MDc5Njk4NSwtNjk3OTY5NTUwLDE0Mz
+kxNDgwNzNdfQ==
 -->
