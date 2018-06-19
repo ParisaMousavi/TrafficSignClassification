@@ -34,7 +34,8 @@ For this project we use only two columns of datasets: features and labels
 Labels: contains the Id of traffic sign
 Each row of features a row in labels which determines the traffic sign classification.
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkzNDE1ODUzLC02OTc5Njk1NTAsMTQzOT
+eyJoaXN0b3J5IjpbNTM4Mzc4OTA3LC02OTc5Njk1NTAsMTQzOT
 E0ODA3M119
 -->
